@@ -1,4 +1,4 @@
-MonoDroid Samples :) OK
+MonoDroid Samples :) OK.
 =================
 
 This repository contains Mono for Android samples, showing usage of various
